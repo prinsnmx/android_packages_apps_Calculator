@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2012-2013 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -11,8 +12,10 @@
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
---><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="application_copyright">\ U00A9 Проект CyanogenMod, 2013</string>
+     
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="application_copyright">\u00a9 Проект CyanogenMod, 2013</string>
     <string name="copy">Копіювати «%s»</string>
     <string name="remove_from_history">Прибрати з історії</string>
 
@@ -25,7 +28,7 @@
 
     <string name="determinantDesc">Визначник</string>
     <string name="eigenvalueDesc">Власне. значення</string>
-    <string name="next">Слід.</string>
+    <string name="next">Наст.</string>
 
     <string name="hexDesc">Шістнадцяткова</string>
     <string name="binDesc">Двійкова</string>
@@ -34,7 +37,7 @@
     <string name="matrix">Панель матриці</string>
     <string name="graph">Панель графіків</string>
     <string name="function">Панель функцій</string>
-    <string name="hexPanel">Шестн. панель</string>
+    <string name="hexPanel">Шістн. панель</string>
     <string name="lock">Заблокувати</string>
     <string name="unlock">Розблокувати</string>
 
@@ -43,10 +46,10 @@
     <string name="pref_units">Одиниці</string>
     <string name="pref_theme">Оформлення</string>
     <string name="pref_about">Про додаток</string>
-    <string name="returnToBasic">Автовозврата на основну панель</string>
+    <string name="returnToBasic">Автоповернення на основну панель</string>
     <string name="clickToOpenHistory">Відкриття історії одним натисканням</string>
     <string name="digitGrouping">Угруповання чисел за розрядами</string>
-    <string name="trigUnits">Тригона. одиниці</string>
+    <string name="trigUnits">Тригоном. одиниці</string>
     <string name="radians">Радіани</string>
     <string name="degrees">Градуси</string>
     <string name="holo">Тема</string>
